@@ -16,6 +16,8 @@ public class Main {
                 Instant.now()
         );
 
+
+
         System.out.println(manager.save(document));
     }
 }
